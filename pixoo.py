@@ -1,5 +1,6 @@
 """
-Pixoo 
+pixoo.py - Python client for Divoom Pixoo devices,
+provided by https://github.com/virtualabs/pixoo-client
 """
 
 import sys
